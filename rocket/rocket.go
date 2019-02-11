@@ -5,8 +5,8 @@ import (
 	"log"
 
 	"github.com/go-chat-bot/bot"
-	"github.com/pyinx/gorocket/api"
-	"github.com/pyinx/gorocket/rest"
+	"github.com/csotherden/gorocket/api"
+	"github.com/csotherden/gorocket/rest"
 )
 
 var (
